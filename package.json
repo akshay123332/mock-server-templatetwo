@@ -1,0 +1,24 @@
+{
+  "name": "mock-server-templatetwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshay123332/mock-server-templatetwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshay123332/mock-server-templatetwo/issues"
+  },
+  "homepage": "https://github.com/akshay123332/mock-server-templatetwo#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
